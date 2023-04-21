@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.7a28f58c.chunk.css",
-    "main.js": "./static/js/main.e865e72a.chunk.js",
-    "main.js.map": "./static/js/main.e865e72a.chunk.js.map",
+    "main.js": "./static/js/main.333dec87.chunk.js",
+    "main.js.map": "./static/js/main.333dec87.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c3e68e94.js",
     "runtime-main.js.map": "./static/js/runtime-main.c3e68e94.js.map",
     "static/js/2.1c4ff7d0.chunk.js": "./static/js/2.1c4ff7d0.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.1c4ff7d0.chunk.js.LICENSE.txt": "./static/js/2.1c4ff7d0.chunk.js.LICENSE.txt",
     "static/media/2.c5284f46.png": "./static/media/2.c5284f46.png",
     "static/media/ALEX.32054117.jpg": "./static/media/ALEX.32054117.jpg",
-    "static/media/Aimee.5d375b1b.png": "./static/media/Aimee.5d375b1b.png",
+    "static/media/Aimee.dcc2a198.png": "./static/media/Aimee.dcc2a198.png",
     "static/media/Dawn zhu.c5791f79.jpg": "./static/media/Dawn zhu.c5791f79.jpg",
     "static/media/Finn Li.4977ec5e.png": "./static/media/Finn Li.4977ec5e.png",
     "static/media/Leafan.bb186121.jpg": "./static/media/Leafan.bb186121.jpg",
@@ -56,12 +56,12 @@
     "static/media/img_7.900da25b.png": "./static/media/img_7.900da25b.png",
     "static/media/img_8.png": "./static/media/img_8.34bead0d.png",
     "static/media/portfolio.ffcc3da2.jpg": "./static/media/portfolio.ffcc3da2.jpg",
-    "static/media/roy.de149b4c.jpg": "./static/media/roy.de149b4c.jpg"
+    "static/media/roy.a54b52b9.jpg": "./static/media/roy.a54b52b9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3e68e94.js",
     "static/js/2.1c4ff7d0.chunk.js",
     "static/css/main.7a28f58c.chunk.css",
-    "static/js/main.e865e72a.chunk.js"
+    "static/js/main.333dec87.chunk.js"
   ]
 }
