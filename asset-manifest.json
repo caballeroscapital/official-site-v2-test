@@ -1,12 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.7a28f58c.chunk.css",
+<<<<<<< HEAD
     "main.js": "./static/js/main.75ab8355.chunk.js",
     "main.js.map": "./static/js/main.75ab8355.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4b1b1cf1.js",
     "runtime-main.js.map": "./static/js/runtime-main.4b1b1cf1.js.map",
     "static/js/2.0c56ac0a.chunk.js": "./static/js/2.0c56ac0a.chunk.js",
     "static/js/2.0c56ac0a.chunk.js.map": "./static/js/2.0c56ac0a.chunk.js.map",
+=======
+    "main.js": "./static/js/main.ccf1414d.chunk.js",
+    "main.js.map": "./static/js/main.ccf1414d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c3e68e94.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c3e68e94.js.map",
+    "static/js/2.1c4ff7d0.chunk.js": "./static/js/2.1c4ff7d0.chunk.js",
+    "static/js/2.1c4ff7d0.chunk.js.map": "./static/js/2.1c4ff7d0.chunk.js.map",
+>>>>>>> 4b6ab25 (客服系统)
     "index.html": "./index.html",
     "static/css/main.7a28f58c.chunk.css.map": "./static/css/main.7a28f58c.chunk.css.map",
     "static/js/2.0c56ac0a.chunk.js.LICENSE.txt": "./static/js/2.0c56ac0a.chunk.js.LICENSE.txt",
@@ -62,6 +71,10 @@
     "static/js/runtime-main.4b1b1cf1.js",
     "static/js/2.0c56ac0a.chunk.js",
     "static/css/main.7a28f58c.chunk.css",
+<<<<<<< HEAD
     "static/js/main.75ab8355.chunk.js"
+=======
+    "static/js/main.ccf1414d.chunk.js"
+>>>>>>> 4b6ab25 (客服系统)
   ]
 }
